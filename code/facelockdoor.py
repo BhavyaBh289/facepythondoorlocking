@@ -12,7 +12,6 @@ c = 0
 m = 0
 d = 0
 
-# pehele collecting data face1.py chala, vo 500 imgs capture karega fir ye file chala (see line 97 for more info!)
 
 while q <= 2:
     data_path = r'images'
